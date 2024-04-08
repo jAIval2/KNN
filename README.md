@@ -95,6 +95,7 @@ Classification Report:
    macro avg       0.76      0.35      0.33       187
 
 weighted avg       0.79      0.79      0.71       187
+
 ### Inferences from EDA
 
 -   Moving Averages: Calculated 9, 21, 50, and 200-day exponential moving averages (EMA) to capture short-term and long-term trends.
@@ -111,7 +112,7 @@ Due to time constraints with upcoming semester exams, we were unable to backtest
 Known Issues
 ------------
 
-We acknowledge that the buy signals are not properly shown in the visualization. This is due to time constraints, and future iterations of the project will address this issue.
+We acknowledge that the buy signals are not properly shown in the visualization. This is due to time constraints with the upcoming semester-end exams, and future iterations of the project will address this issue.
 
 Future Work
 -----------
